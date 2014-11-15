@@ -49,7 +49,7 @@ CC = clang
 # 	发布环境：
 # 	CFLAGS = -O -Wall
 
-CFLAGS = -O -Wall
+CFLAGS = -O -Wall -Wno-invalid-source-encoding
 
 # 目标程序执行时的参数
 # 示例：
