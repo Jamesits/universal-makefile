@@ -53,4 +53,4 @@ PROGRAM = 程序名
 * compile-file.bat：编译第一个参数指定的 .c 文件，生成对应的 .exe 文件
 * compile-and-execute-file.bat：编译第一个参数指定的 .c 文件，生成对应的 .exe 文件**并运行**
 
-注：每个批处理文件均使用 C:\MinGW\bin 作为默认搜索路径。
+注：每个批处理文件均使用 C:\MinGW\bin 和 C:\MinGW\msys\1.0\bin 作为默认搜索路径。这两个路径是 MinGW 的默认安装位置。
