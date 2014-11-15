@@ -8,13 +8,13 @@
 # 示例：
 # SRC = hello.c
 
-SRC = draw_circle.c
+SRC = hello.c
 
 # 可执行程序名
 # 示例：
 # PROGRAM = hello.exe
 
-PROGRAM = draw_circle.exe
+PROGRAM = hello.exe
 
 # Object 文件名（如无特殊需求不要改动）
 # 默认值：
@@ -86,7 +86,8 @@ $(PROGRAM): $(OBJ)
 exec: $(PROGRAM)
 	@echo "> Executing $(PROGRAM)"
 	@echo "> =================================================="
-	@$(EXEC_PREFIX) $(PROGRAM) $(ARG);
+	@$(EXEC_PREFIX) $(PROGRAM) $(ARG)
+	@echo ""
 	@echo "> =================================================="
 	@echo "> Program finished."
 

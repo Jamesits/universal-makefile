@@ -2,5 +2,5 @@
 
 Set %PATH% = "C:\MinGW\bin;" + %PATH%
 
-make exec
+make
 pause
