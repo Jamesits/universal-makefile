@@ -5,6 +5,10 @@ Universal Makefile
 
 **仅用于特定用途，小心使用！**
 
+## 环境要求
+
+* make、gcc 和/或 clang 及其依赖项所在路径已经添加到 %PATH% 或者处于 C:\MinGW32\bin 中  
+
 ## 使用方法
 
 推荐方法：
