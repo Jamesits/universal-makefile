@@ -105,6 +105,4 @@ clean:
 	@rm $(RM_FLAGS) $(OBJ)
 
 # 懒人操作
-auto:
-	@make exec
-	@make clean
+auto: $(PROGRAM) exec
