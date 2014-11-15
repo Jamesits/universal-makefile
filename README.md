@@ -7,9 +7,9 @@ Universal Makefile
 
 ## 环境要求
 
-* make、gcc 和/或 clang 及其依赖项所在路径已经添加到 %PATH% 或者处于 C:\MinGW32\bin 中
+* make、gcc 和/或 clang 及其依赖项所在路径已经添加到 %PATH% 或者处于 C:\MinGW\bin 或 C:\MinGW\msys\1.0\bin 中
 
-测试环境：Windows 8.1 x64，使用 MinGW Installation Manager 安装 mingw32-base 和 mingw-developer-toolkit 到 C:\MinGW32\，LLVM/clang 和 Git 均按默认路径安装并添加到 %PATH%。
+测试环境：Windows 8.1 x64，使用 MinGW Installation Manager 安装 mingw32-base 和 mingw-developer-toolkit 到 C:\MinGW\，LLVM/clang 和 Git 均按默认路径安装并添加到 %PATH%。
 
 ## 使用方法
 
