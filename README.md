@@ -13,7 +13,7 @@ Universal Makefile
 
 ## 使用方法
 
-[戳这里下载](archive/master.zip)然后解压。
+[戳这里下载](../../archive/master.zip)然后解压。
 
 推荐方法：
 
