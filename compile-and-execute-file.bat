@@ -1,6 +1,6 @@
 @echo off
 
-Set PATH=C:\MinGW\bin;%PATH%
+Set PATH=C:\MinGW\bin;C:\MinGW\msys\1.0\bin;%PATH%
 
 @setlocal EnableDelayedExpansion
 for /f "delims=" %%i in ('"dir /a/s/b/on %1"') do (
