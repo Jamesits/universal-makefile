@@ -39,7 +39,7 @@ PROGRAM = 程序名
 ## 批处理文件功能说明
 
 * compile.bat：编译 Makefile 内 SRC 变量指定的 .c 文件，生成对应的 .exe 文件
-* compile-and-execute.bat：编译 Makefile 内 SRC 变量指定 .c 文件，生成对应的 .exe 文件**并逐一运行**
+* compile-and-execute.bat：编译 Makefile 内 SRC 变量指定的 .c 文件，生成对应的 .exe 文件**并逐一运行**
 * compile-all.bat：编译当前目录下所有 .c 文件，生成对应的 .exe 文件
 * compile-and-execute-all.bat：编译当前目录下所有 .c 文件，生成对应的 .exe 文件**并逐一运行**
 * compile-file.bat：编译第一个参数指定的 .c 文件，生成对应的 .exe 文件
