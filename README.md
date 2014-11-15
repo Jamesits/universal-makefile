@@ -13,6 +13,8 @@ Universal Makefile
 
 ## 使用方法
 
+[戳这里下载](archive/master.zip)然后解压。
+
 推荐方法：
 
 1. 把 Makefile 和 compile-and-execute-file.bat 复制到 .c 源文件相同的目录中
@@ -21,7 +23,7 @@ Universal Makefile
 
 方法二：
 
-按照下一节的做法修改 Makefile，然后直接执行 compile-and-execute.bat
+按照[下一节](#makefile-%E4%BF%AE%E6%94%B9%E8%AF%B4%E6%98%8E)的做法修改 Makefile，然后直接执行 compile-and-execute.bat
 
 ## Makefile 修改说明
 
